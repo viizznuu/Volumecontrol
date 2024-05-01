@@ -50,7 +50,6 @@ Minimum confidence value ([0.0, 1.0]) from the landmark-tracking model for the h
 
 <br>
 
-Source: [MediaPipe Hands Solutions](https://google.github.io/mediapipe/solutions/hands#python-solution-api)
 
 <div align="center">
     <img alt="mediapipeLogo" src="images/hand_landmarks_docs.png" height="200 x    " />
@@ -191,6 +190,6 @@ cam.release()
 
 If you want to contact me, you can reach me through below handles.
 
-<a href="https://twitter.com/prrthamm"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25">@prrthamm</img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/pratham-bhatnagar/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"> Pratham Bhatnagar</img></a>
+<a href="https://www.linkedin.com/in/vishnu77vr77/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"> Vishnu VK</img></a>
 
 </div>
